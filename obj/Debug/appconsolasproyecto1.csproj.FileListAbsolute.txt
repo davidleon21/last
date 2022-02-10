@@ -1,0 +1,7 @@
+C:\Users\CARLOS.ALBAN.HOLGUIN\Desktop\yo\periodo 5\apps\appconsolasproyecto1\appconsolasproyecto1\bin\Debug\appconsolasproyecto1.exe.config
+C:\Users\CARLOS.ALBAN.HOLGUIN\Desktop\yo\periodo 5\apps\appconsolasproyecto1\appconsolasproyecto1\bin\Debug\appconsolasproyecto1.exe
+C:\Users\CARLOS.ALBAN.HOLGUIN\Desktop\yo\periodo 5\apps\appconsolasproyecto1\appconsolasproyecto1\bin\Debug\appconsolasproyecto1.pdb
+C:\Users\CARLOS.ALBAN.HOLGUIN\Desktop\yo\periodo 5\apps\appconsolasproyecto1\appconsolasproyecto1\obj\Debug\appconsolasproyecto1.csproj.AssemblyReference.cache
+C:\Users\CARLOS.ALBAN.HOLGUIN\Desktop\yo\periodo 5\apps\appconsolasproyecto1\appconsolasproyecto1\obj\Debug\appconsolasproyecto1.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS.ALBAN.HOLGUIN\Desktop\yo\periodo 5\apps\appconsolasproyecto1\appconsolasproyecto1\obj\Debug\appconsolasproyecto1.exe
+C:\Users\CARLOS.ALBAN.HOLGUIN\Desktop\yo\periodo 5\apps\appconsolasproyecto1\appconsolasproyecto1\obj\Debug\appconsolasproyecto1.pdb
